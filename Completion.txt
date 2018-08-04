@@ -28,3 +28,7 @@ https://www.w3resource.com/python-exercises/
         26
         27 
         28
+        29
+        30
+        32
+        
