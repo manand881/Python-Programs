@@ -109,6 +109,15 @@ https://www.w3resource.com/python-exercises/
         106
         107
         108
+        109
+        110
+        111
+        112
+        113
+        114
+        115
+        116
+        
 
 
 
