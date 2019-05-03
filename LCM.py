@@ -1,5 +1,8 @@
 # Get the least common multiple (LCM) of two positive integers
+import time
+
 def lcm(x,y):
+    start_time=time.perf_counter()
     if x>y:
         z=x
     elif x==0 or y==0:
@@ -11,5 +14,8 @@ def lcm(x,y):
             print(z)
             break
         z=z+1
+    end_time=time.perf_counter()
+    run_time=end_time-start_time
+    print(run_time)
 
-lcm(15,17)
+lcm(3698,1789)

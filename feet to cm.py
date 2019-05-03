@@ -1,4 +1,5 @@
 # Convert height (in feet and inches) to centimeters
+# this is for your reading only
 
 print("Input your height: ")
 h_ft = int(input("Feet: "))
